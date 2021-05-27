@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ns0:ConsultaDatosAdiRequest
+	xmlns:ns0="http://auna.com/X12N/IntegracionAutorizaciones">
+	<TxNombre>270_CON_ASE</TxNombre>
+	<CoIafa>20006</CoIafa>
+	<TxPeticion>
+		<NoTransaccion>270_CON_ASE</NoTransaccion>
+		<IdRemitente>00019049</IdRemitente>
+		<IdReceptor>20006</IdReceptor>
+		<FeTransaccion>20200405</FeTransaccion>
+		<HoTransaccion>230426</HoTransaccion>
+		<IdCorrelativo>000000001</IdCorrelativo>
+		<IdTransaccion>270</IdTransaccion>
+		<TiFinalidad>13</TiFinalidad>
+		<CaRemitente>2</CaRemitente>
+		<NuRucRemitente>20501781291</NuRucRemitente>
+		<TxRequest>CD</TxRequest>
+		<CaReceptor>2</CaReceptor>
+		<CaPaciente>1</CaPaciente>
+		<ApPaternoPaciente>SALDAÑA</ApPaternoPaciente>
+		<NoPaciente>ROSALMIRA</NoPaciente>
+		<CoAfPaciente>10237716204687763</CoAfPaciente>
+		<ApMaternoPaciente>TORRES</ApMaternoPaciente>
+		<TiDocumento>1</TiDocumento>
+		<NuDocumento>10444192</NuDocumento>
+		<CoProducto>60</CoProducto>
+		<DeProducto>ONCOPLUS</DeProducto>
+		<CoInProducto />
+		<NuCobertura>9</NuCobertura>
+		<DeCobertura>3</DeCobertura>
+		<CaServicio>1</CaServicio>
+		<CoCalservicio />
+		<BeMaxInicial>0</BeMaxInicial>
+		<CoTiCobertura>9</CoTiCobertura>
+		<CoSuTiCobertura>043</CoSuTiCobertura>
+		<CoAplicativoTx>21</CoAplicativoTx>
+		<CoEspecialidad />
+		<CoParentesco>1</CoParentesco>
+		<NuPlan>00066</NuPlan>
+		<NuAutOrigen />
+		<TiCaContratante />
+		<NoPaContratante>SALDAÑA</NoPaContratante>
+		<NoContratante>KATHERINE</NoContratante>
+		<NoMaContratante>SALDAÑA</NoMaContratante>
+		<TiDoContratante>6</TiDoContratante>
+		<IdReContratante>4A</IdReContratante>
+		<CoReContratante />
+	</TxPeticion>
+	<CoExcepcion>0000</CoExcepcion>
+</ns0:ConsultaDatosAdiRequest>

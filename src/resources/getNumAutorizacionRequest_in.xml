@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:getConsultaEntVinculadaRequest xmlns:ns0="http://www.susalud.gob.pe/acreditacion/WSPasarelaSuSalud/">
+	<txNombre></txNombre>
+	<coIafa></coIafa>
+	<txPeticion></txPeticion>
+	<coExcepcion></coExcepcion>
+</ns0:getConsultaEntVinculadaRequest>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ns0:CondicionMedicaRequest
+	xmlns:ns0="http://auna.com/X12N/IntegracionAutorizaciones">
+	<TxNombre>270_CON_ASE</TxNombre>
+	<CoIafa>20006</CoIafa>
+	<TxPeticion>
+		<NoTransaccion>270_CON_ASE</NoTransaccion>
+		<IdRemitente>00009845</IdRemitente>
+		<IdReceptor>20006</IdReceptor>
+		<FeTransaccion>20200406</FeTransaccion>
+		<HoTransaccion>000437</HoTransaccion>
+		<IdCorrelativo>000000001</IdCorrelativo>
+		<IdTransaccion>270</IdTransaccion>
+		<TiFinalidad>13</TiFinalidad>
+		<CaRemitente>2</CaRemitente>
+		<NuRucRemitente>20381170412</NuRucRemitente>
+		<TxRequest>CM</TxRequest>
+		<CaReceptor>2</CaReceptor>
+		<CaPaciente>1</CaPaciente>
+		<ApPaternoPaciente>GIBU</ApPaternoPaciente>
+		<NoPaciente>ALFREDO</NoPaciente>
+		<CoAfPaciente>10158152600078173</CoAfPaciente>
+		<ApMaternoPaciente>GIBU</ApMaternoPaciente>
+		<TiDocumento>1</TiDocumento>
+		<NuDocumento>09162653</NuDocumento>
+		<CoProducto>22</CoProducto>
+		<DeProducto>ONCOCLASICO PRO</DeProducto>
+		<CoInProducto />
+		<NuCobertura />
+		<DeCobertura />
+		<CaServicio />
+		<CoCalservicio />
+		<BeMaxInicial />
+		<CoTiCobertura />
+		<CoSuTiCobertura />
+		<CoAplicativoTx />
+		<CoEspecialidad />
+		<CoParentesco>1</CoParentesco>
+		<NuPlan>00064</NuPlan>
+		<NuAutOrigen />
+		<TiCaContratante />
+		<NoPaContratante />
+		<NoContratante />
+		<NoMaContratante />
+		<TiDoContratante>6</TiDoContratante>
+		<IdReContratante>4A</IdReContratante>
+		<CoReContratante />
+	</TxPeticion>
+	<CoExcepcion>0000</CoExcepcion>
+</ns0:CondicionMedicaRequest>

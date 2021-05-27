@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<getConsultaxCartaGarantiaResponse
+	xmlns="http://www.susalud.gob.pe/ws/siteds/schemas">
+	<coError>0000</coError>
+	<txNombre>278_RES_CG</txNombre>
+	<coIafa>20006</coIafa>
+	<txRespuesta>ISA*00* *00* *ZZ*20006 *ZZ*00019049
+		*210521*0131*|*00501*00000000x*0*T*:~GS*HI*20006 *00019049
+		*20210521*013159 *077541950*X *00501 ~ST*278*46501528 *
+		~BHT*0022*11~HL*1 * *20*1~NM1*PR *2* * * * * *PI*20006 * * * ~HL*2 *1
+		*21*1~NM1*1P *2* * * * * *SV*20501781291 * * * ~HL*3 *2 *22*0~NM1*IL
+		*1*QUISPE *ANGELINA * * * *MI*10110568602967805 * * *BERNILLA ~REF*DD
+		*1 * *4A :16563242 : : : : ~INS*Y*F7* * * * * * * * * * * * * * *1180
+		~NM1*P5 *2*Oncosalud * * * * * * * * * ~REF*DD * * * : : : : : ~REF*5F
+		* *HOSPITALIZACION *ZZ :2006000001 : : : : ~REF*BB *10144587 * *ZZ :V1
+		: : : : ~REF*ACC*1 * ~REF*OZ *10 * ~REF*ZZ *000508 *SALA DE
+		PROCEDIMIENTOS ESPECIALES ~REF*18 * * *IMP: :ZZ :1 : : ~DTP*447*DT
+		*202006211726 ~SE*21 *46501528 ~GE*1 *077541950~IEA*1 *00000000x~
+	</txRespuesta>
+</getConsultaxCartaGarantiaResponse>

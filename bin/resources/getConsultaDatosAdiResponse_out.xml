@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<getConsultaDatosAdiResponse
+	xmlns="http://www.susalud.gob.pe/ws/siteds/schemas">
+	<coError>0000</coError>
+	<txNombre>271_CON_DTAD</txNombre>
+	<coIafa>20006</coIafa>
+	<txRespuesta>ISA*00* *00* *ZZ*20006 *ZZ*1406470
+		*210318*1150*|*00501*000000001*0*T*:~GS*HB*20006 *1406470
+		*20210318*115059 *044489496*X *00501 ~ST*271*56385971 *
+		~BHT*0022*11~HL*1 * *20*1~NM1*PR *2* * * * * *PI*20006 * * * ~HL*2 *1
+		*21*1~NM1*1P *2* * * * * *SV* * * * ~HL*3 *2 *22*1~NM1*IL *1*DEL 8 *EL
+		CHAVO * * * *MI*1 * * * ~N3* * ~N4* * * * *W * * ~PER*IC* * * * *
+		~PER*IP* *EM* *TE* ~NM1*CA * * * * * * * * * * * ~SE*15 *56385971
+		~GE*1 *044489496~IEA*1 *000000001~</txRespuesta>
+</getConsultaDatosAdiResponse>

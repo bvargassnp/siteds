@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsp:getCondicionMedicaResponse
+	xmlns:wsp="http://www.susalud.gob.pe/acreditacion/WSPasarelaSuSalud/">
+	<coError />
+	<txNombre>271_CON_MED</txNombre>
+	<coIafa>20006</coIafa>
+	<txRespuesta />
+</wsp:getCondicionMedicaResponse>

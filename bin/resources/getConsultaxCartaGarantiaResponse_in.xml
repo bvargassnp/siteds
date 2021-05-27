@@ -1,0 +1,48 @@
+<InformacionAfiliadoResponse
+	xmlns='http://www.laprotectora.com.pe/'
+	xmlns:soap='http://schemas.xmlsoap.org/soap/envelope/'
+	xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+	xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+	<InformacionAfiliadoResult>
+		<Afiliado>
+			<registro>3</registro>
+			<transaccion />
+			<ID_remi />
+			<ID_receptor />
+			<fecha />
+			<hora />
+			<correlativo />
+			<iden_uni_Transac />
+			<calif_remi />
+			<calif_recep />
+			<RUC_recep />
+			<calif_afi />
+			<apepat_afi />
+			<nom_afi />
+			<cod_afi />
+			<apemat_afi />
+			<cod_tip_doc_afi />
+			<doc_afi />
+			<monto_pagado />
+			<tip_calif_contrat />
+			<ape_pat_nom_contrat />
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant />
+			<nro_soli_carta_garant />
+			<nro_carta_garant />
+			<vers_carta_garant />
+			<est_carta_garant />
+			<cod_prod />
+			<cod_proced />
+			<descrip_proced />
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda />
+			<fch_carta_garant />
+		</Afiliado>
+	</InformacionAfiliadoResult>
+</InformacionAfiliadoResponse>

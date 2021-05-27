@@ -1,0 +1,415 @@
+<InformacionAfiliadoResponse
+	xmlns='http://www.laprotectora.com.pe/'	xmlns:soap='http://schemas.xmlsoap.org/soap/envelope/'	xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+	xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+	<InformacionAfiliadoResult>
+		<Afiliado>
+			<registro>1009325300</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor />
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20102487363</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi>FERNANDEZ</apepat_afi>
+			<nom_afi>MARIA DEL PILAR</nom_afi>
+			<cod_afi>10032865300583682</cod_afi>
+			<apemat_afi>MOGOLLON</apemat_afi>
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>02643688</doc_afi>
+			<monto_pagado>2330.5</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1112000645</nro_soli_carta_garant>
+			<nro_carta_garant>10006776</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>60</cod_prod>
+			<cod_proced>000508</cod_proced>
+			<descrip_proced>SALA DE PROCEDIMIENTOS ESPECIALES</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201112161758</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1007137600</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00009116</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20100162742</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi />
+			<nom_afi />
+			<cod_afi />
+			<apemat_afi />
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi />
+			<monto_pagado>1328.68</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204000574</nro_soli_carta_garant>
+			<nro_carta_garant>10008609</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>10</cod_prod>
+			<cod_proced>450117</cod_proced>
+			<descrip_proced>HONORARIO MEDICO PARA QUIMIOTERAPIA EN PACIENTE
+				HOSPITALIZADO - POR DIA
+			</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204201821</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1010530400</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00010743</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20428080671</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi>JACOBS</apepat_afi>
+			<nom_afi>MARIA JENNY</nom_afi>
+			<cod_afi>10032414300576487</cod_afi>
+			<apemat_afi>ZUÑIGA</apemat_afi>
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>08222677</doc_afi>
+			<monto_pagado>5306.1</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204000860</nro_soli_carta_garant>
+			<nro_carta_garant>10008601</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>60</cod_prod>
+			<cod_proced>030705</cod_proced>
+			<descrip_proced>OPERACION COMANDO - ENCIA, PAROTIDA, SUBMAXILAR, PISO
+				DE BOCA, LENGUA, PALADAR
+			</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204200931</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1006934500</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00006210</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20514964778</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi />
+			<nom_afi />
+			<cod_afi />
+			<apemat_afi />
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi />
+			<monto_pagado>6930</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204000922</nro_soli_carta_garant>
+			<nro_carta_garant>10008393</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>99</cod_prod>
+			<cod_proced>000508</cod_proced>
+			<descrip_proced>SALA DE PROCEDIMIENTOS ESPECIALES</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204041141</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1012218600</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00009116</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20100162742</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi>RAMIREZ</apepat_afi>
+			<nom_afi>AMADEO BENJAMIN</nom_afi>
+			<cod_afi>10029028600338732</cod_afi>
+			<apemat_afi>GUILLEN</apemat_afi>
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>08603105</doc_afi>
+			<monto_pagado>2848.08</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204000972</nro_soli_carta_garant>
+			<nro_carta_garant>10008470</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>10</cod_prod>
+			<cod_proced>500301</cod_proced>
+			<descrip_proced>HONORARIOS POR VISITA MEDICA EN HOSPITALIZACION POR
+				MEDICO TRATANTE DEL 1ER AL 3
+			</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204101659</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1008354200</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00009988</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20107463705</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi />
+			<nom_afi />
+			<cod_afi />
+			<apemat_afi />
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>09174846</doc_afi>
+			<monto_pagado>4175.91</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204001019</nro_soli_carta_garant>
+			<nro_carta_garant>10008625</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>99</cod_prod>
+			<cod_proced>450117</cod_proced>
+			<descrip_proced>HONORARIO MEDICO PARA QUIMIOTERAPIA EN PACIENTE
+				HOSPITALIZADO - POR DIA
+			</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204231130</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1006764600</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00009682</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20100054184</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi>MORY</apepat_afi>
+			<nom_afi>WILLIAM</nom_afi>
+			<cod_afi>10028396200506100</cod_afi>
+			<apemat_afi>HERBOZO</apemat_afi>
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>08192248</doc_afi>
+			<monto_pagado>5401.6</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204001143</nro_soli_carta_garant>
+			<nro_carta_garant>10008587</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>60</cod_prod>
+			<cod_proced>000508</cod_proced>
+			<descrip_proced>SALA DE PROCEDIMIENTOS ESPECIALES</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204200855</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1011740300</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00009886</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20100176964</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi>2015-02-23</apepat_afi>
+			<nom_afi />
+			<cod_afi />
+			<apemat_afi />
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>31631748</doc_afi>
+			<monto_pagado>7576.2</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204001166</nro_soli_carta_garant>
+			<nro_carta_garant>10008348</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>99</cod_prod>
+			<cod_proced>000508</cod_proced>
+			<descrip_proced>SALA DE PROCEDIMIENTOS ESPECIALES</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201203310441</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1000728300</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00009682</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20100054184</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi>INURRITEGUI</apepat_afi>
+			<nom_afi>EMMA</nom_afi>
+			<cod_afi>10003160200118639</cod_afi>
+			<apemat_afi>RAMIREZ VDA DE LEON</apemat_afi>
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>07799833</doc_afi>
+			<monto_pagado>3419.98</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204001170</nro_soli_carta_garant>
+			<nro_carta_garant>10008590</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>10</cod_prod>
+			<cod_proced>000508</cod_proced>
+			<descrip_proced>SALA DE PROCEDIMIENTOS ESPECIALES</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204200902</fch_carta_garant>
+		</Afiliado>
+		<Afiliado>
+			<registro>1012218600</registro>
+			<transaccion>278_RES_CG</transaccion>
+			<ID_remi>20006</ID_remi>
+			<ID_receptor>00009116</ID_receptor>
+			<fecha>20210203</fecha>
+			<hora>184855</hora>
+			<correlativo>00000000x</correlativo>
+			<iden_uni_Transac>278</iden_uni_Transac>
+			<calif_remi>2</calif_remi>
+			<calif_recep>2</calif_recep>
+			<RUC_recep>20100162742</RUC_recep>
+			<calif_afi>1</calif_afi>
+			<apepat_afi>RAMIREZ</apepat_afi>
+			<nom_afi>AMADEO BENJAMIN</nom_afi>
+			<cod_afi>10029028600338732</cod_afi>
+			<apemat_afi>GUILLEN</apemat_afi>
+			<cod_tip_doc_afi>1</cod_tip_doc_afi>
+			<doc_afi>08603105</doc_afi>
+			<monto_pagado>4537</monto_pagado>
+			<tip_calif_contrat>2</tip_calif_contrat>
+			<ape_pat_nom_contrat>Oncosalud</ape_pat_nom_contrat>
+			<nom_contrat />
+			<ape_mat_contrat />
+			<tip_doc_contrat />
+			<ident_calif_ref_contrat />
+			<ref_indentif_contrat />
+			<descrip_carta_garant>HOSPITALIZACION</descrip_carta_garant>
+			<nro_soli_carta_garant>1204001198</nro_soli_carta_garant>
+			<nro_carta_garant>10008470</nro_carta_garant>
+			<vers_carta_garant>V1</vers_carta_garant>
+			<est_carta_garant>1</est_carta_garant>
+			<cod_prod>10</cod_prod>
+			<cod_proced>090405</cod_proced>
+			<descrip_proced>PROSTATECTOMIA RADICAL CON / SIN VASECTOMIA
+			</descrip_proced>
+			<nro_plan />
+			<tip_plansalud />
+			<cod_moneda>1</cod_moneda>
+			<fch_carta_garant>201204101659</fch_carta_garant>
+		</Afiliado>
+	</InformacionAfiliadoResult>
+</InformacionAfiliadoResponse>

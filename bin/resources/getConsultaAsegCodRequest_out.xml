@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ns0:ConsultaAsegCodRequest
+	xmlns:ns0="http://auna.com/X12N/IntegracionAutorizaciones">
+	<TxNombre>270_CON_ASE</TxNombre>
+	<CoIafa>20006</CoIafa>
+	<TxPeticion>
+		<NoTransaccion />
+		<IdRemitente />
+		<IdReceptor />
+		<FeTransaccion />
+		<HoTransaccion />
+		<IdCorrelativo />
+		<IdTransaccion />
+		<TiFinalidad />
+		<CaRemitente />
+		<NuRucRemitente />
+		<TxRequest />
+		<CaReceptor />
+		<CaPaciente />
+		<ApPaternoPaciente />
+		<NoPaciente />
+		<CoAfPaciente />
+		<ApMaternoPaciente />
+		<TiDocumento />
+		<NuDocumento />
+		<CoProducto />
+		<CoInProducto />
+		<NuCobertura />
+		<DeCobertura />
+		<CaServicio />
+		<CoCalservicio />
+		<BeMaxInicial />
+		<CoTiCobertura />
+		<CoSuTiCobertura />
+		<CoAplicativoTx />
+		<CoEspecialidad />
+		<CoParentesco />
+		<NuPlan />
+		<NuAutOrigen />
+		<TiCaContratante />
+		<NoPaContratante />
+		<NoContratante />
+		<NoMaContratante />
+		<TiDoContratante />
+		<IdReContratante />
+		<CoReContratante />
+	</TxPeticion>
+	<CoExcepcion>00009845|2180|3930|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175|2175
+	</CoExcepcion>
+</ns0:ConsultaAsegCodRequest>

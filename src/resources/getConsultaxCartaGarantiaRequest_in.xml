@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:getConsultaEntVinculadaRequest
+	xmlns:ns0="http://www.susalud.gob.pe/acreditacion/WSPasarelaSuSalud/">
+	<txNombre>278_SOL_CG</txNombre>
+	<coIafa>20006</coIafa>
+	<txPeticion>ISA*00* *00* *ZZ*00019049 *ZZ*20006
+		*200330*0803*^*00501*000000001*0*P*:
+		~GS*HS*00019049*20006*20200330*080320*1*X*005010~ST*278*0001~BHT*ZZZZ*13~HL*1**20*1~NM1*IP*1*PFLUCKER
+		DEL CASTILLO*NAT********DEL CASTILLO~REF*DD*1**4A: ~REF*BB* **ACC:
+		~REF*5F***ZZ:2020031620200316~SE*9*0001~GE*1*1~IEA*1*000000001~
+	</txPeticion>
+	<coExcepcion>0000</coExcepcion>
+</ns0:getConsultaEntVinculadaRequest>

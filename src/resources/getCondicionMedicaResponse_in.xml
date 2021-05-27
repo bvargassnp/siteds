@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<n0:CondicionMedicaResponse
+	xmlns:n0="http://auna.com/X12N/IntegracionAutorizaciones"
+	xmlns:prx="urn:sap.com:proxy:S4D:/1SAI/TASFE3A87D4E89A6C56CE41:754">
+	<TxRespuesta>
+		<NoTransaccion>271_CON_MED</NoTransaccion>
+		<FeTransaccion>20201009</FeTransaccion>
+		<HoTransaccion>161107</HoTransaccion>
+		<IdCorrelativo>000000001</IdCorrelativo>
+		<IdTransaccion>271</IdTransaccion>
+		<TiFinalidad>11</TiFinalidad>
+		<CaRemitente>2</CaRemitente>
+		<CaReceptor>2</CaReceptor>
+		<CaPaciente>1</CaPaciente>
+		<NoPaciente>
+		</NoPaciente>
+		<CoPaciente>1</CoPaciente>
+		<InConMed271Detalles>
+			<CoRestriccion>EX</CoRestriccion>
+			<IdFuenteRE>1</IdFuenteRE>
+			<EsCobertura>1</EsCobertura>
+			<TiEspera>20201009</TiEspera>
+		</InConMed271Detalles>
+	</TxRespuesta>
+</n0:CondicionMedicaResponse>

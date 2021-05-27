@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:getConsultaEntVinculadaRequest xmlns:ns0="http://www.susalud.gob.pe/acreditacion/WSPasarelaSuSalud/">
+	<txNombre>270_CON_ASE</txNombre>
+	<coIafa>20006</coIafa>
+	<txPeticion>ISA*00*          *00*          *ZZ*00019049       *ZZ*20006          *                    *2304*|*00501*000000001*0*P*: ~GS*HS*00019049*20006*20200405*230448*1*X*005010~ST*270*0001~BHT*0022*13~HL*1**20*1~NM1*PR*2******PI*20501781291~PRV*OR**CO~HL*2*1*21*1~NM1*1P*2******FI*20006~HL*3*2*22*0~NM1*IL*1*SALDAÑA*KATHERINE****MI*20084842904478118***SALDAÑA~REF*DD*1~REF*4A*46730252~REF*PRT*60*ONCOPLUS*ZZ: ~REF*D7* * *  : :: ~REF*D7* **ZZ: ~REF*8X* ~REF*S2* ~REF*ZZ*1~REF*18*00066**ZZ: ~REF*PRT* ~DTP*447*D8* ~NM1*P5* * * ******** ~REF*DD*6**4A: ~SE*5*0001~GE*1*1~IEA*1*000000001~</txPeticion>
+	<coExcepcion>0000</coExcepcion>
+</ns0:getConsultaEntVinculadaRequest>
