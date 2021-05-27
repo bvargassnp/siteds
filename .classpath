@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libreria/com.sap.security.core.jar"/>
+	<classpathentry kind="lib" path="libreria/com.sap.xi.mapping.tool.lib_api.jar"/>
+	<classpathentry kind="lib" path="libreria/com.sap.xpi.ib.mapping.lib.jar"/>
+	<classpathentry kind="lib" path="libreria/extraLibs.jar"/>
+	<classpathentry kind="lib" path="libreria/HTTPClient.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~je~keystore_api~API.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~je~security_api~impl.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~compat.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~csi.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~destinations~lib.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~https.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~jaas.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~saml~toolkit.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~ssf.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~userstore.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~util0.jar"/>
+	<classpathentry kind="lib" path="libreria/sap.com~tc~sec~xmlbind.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
