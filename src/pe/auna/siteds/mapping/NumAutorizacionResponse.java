@@ -24,10 +24,6 @@ import pe.auna.siteds.beans.GetNumAutorizacionResponse;
 import pe.gob.susalud.jr.transaccion.susalud.bean.In997ResAut;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.In997ResAutServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1
- */
 public class NumAutorizacionResponse extends AbstractTransformation {
 
     private boolean debug = false;

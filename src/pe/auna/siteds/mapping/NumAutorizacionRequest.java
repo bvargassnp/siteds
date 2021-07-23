@@ -22,10 +22,6 @@ import pe.auna.siteds.beans.GetNumAutorizacionRequest;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InSolAut271;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.SolAut271ServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1
- */
 public class NumAutorizacionRequest extends AbstractTransformation {
 
     // ATRIBUTOS	

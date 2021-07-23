@@ -25,10 +25,6 @@ import pe.gob.susalud.jr.transaccion.susalud.bean.In271ResDeriva;
 import pe.gob.susalud.jr.transaccion.susalud.bean.In271ResDerivaDetalle;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.In271ResDerivaServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1
- */
 public class ConsultaDerivaResponse extends AbstractTransformation {
 
     // ATRIBUTOS	

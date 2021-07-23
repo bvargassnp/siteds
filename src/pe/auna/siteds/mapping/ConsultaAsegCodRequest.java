@@ -23,11 +23,6 @@ import pe.auna.siteds.beans.GetConsultaAsegCodRequest;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConAse270;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.ConAse270ServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1
- *
- */
 public class ConsultaAsegCodRequest extends AbstractTransformation {
 
     // ATRIBUTOS	

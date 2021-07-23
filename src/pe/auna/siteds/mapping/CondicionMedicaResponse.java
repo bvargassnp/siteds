@@ -24,11 +24,7 @@ import pe.auna.siteds.beans.GetCondicionMedicaResponse;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConMed271;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConMed271Detalle;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.ConMed271ServiceImpl;
-/**
- * @author Bryan Vargas
- * @version 2.1 
- *
- */
+
 public class CondicionMedicaResponse extends AbstractTransformation {
 
 

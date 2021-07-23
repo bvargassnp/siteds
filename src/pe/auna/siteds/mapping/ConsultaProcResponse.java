@@ -25,10 +25,7 @@ import pe.gob.susalud.jr.transaccion.susalud.bean.InConProc271;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConProc271Detalle;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.In271ConProcServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.0 
- */
+
 public class ConsultaProcResponse extends AbstractTransformation {
 
     // ATRIBUTOS	

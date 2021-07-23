@@ -22,10 +22,6 @@ import pe.auna.siteds.beans.GetConsultaEntVinculadaRequest;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConEntVinc278;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.ConEntVinc278ServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1
- */
 public class ConsultaEntVinculadaRequest extends AbstractTransformation {
 
     // ATRIBUTOS	

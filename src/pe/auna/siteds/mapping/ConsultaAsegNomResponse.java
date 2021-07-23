@@ -25,10 +25,6 @@ import pe.gob.susalud.jr.transaccion.susalud.bean.InConNom271;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConNom271Detalle;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.ConNom271ServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1
- */
 public class ConsultaAsegNomResponse extends AbstractTransformation {
 
     // ATRIBUTOS	

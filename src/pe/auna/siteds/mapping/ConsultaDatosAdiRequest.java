@@ -19,11 +19,6 @@ import pe.auna.siteds.beans.GetConsultaDatosAdiRequest;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConAse270;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.ConAse270ServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1 
- *
- */
 public class ConsultaDatosAdiRequest extends AbstractTransformation {
 
     // ATRIBUTOS	

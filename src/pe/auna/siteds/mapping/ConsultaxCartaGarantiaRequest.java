@@ -26,11 +26,7 @@ import pe.auna.siteds.beans.GetConsultaxCartaGarantiaRequest;
 import pe.gob.susalud.jr.transaccion.susalud.bean.In278SolCG;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.In278SolCGServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1 
- *
- */
+
 public class ConsultaxCartaGarantiaRequest extends AbstractTransformation {
 
     // ATRIBUTOS	

@@ -32,11 +32,6 @@ import pe.gob.susalud.jr.transaccion.susalud.bean.In278ResCG;
 import pe.gob.susalud.jr.transaccion.susalud.bean.In278ResCGDetalle;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.In278ResCGServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.0
- *
- */
 public class ConsultaxCartaGarantiaResponse extends AbstractTransformation {
 
 	// ATRIBUTOS

@@ -20,10 +20,6 @@ import pe.auna.siteds.beans.GetConsultaObservacionResponse;
 import pe.gob.susalud.jr.transaccion.susalud.bean.In271ConObs;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.In271ConObsServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1
- */
 public class ConsultaObservacionResponse extends AbstractTransformation {
 
     // ATRIBUTOS	

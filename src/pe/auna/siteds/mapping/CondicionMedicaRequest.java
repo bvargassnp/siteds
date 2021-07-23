@@ -20,11 +20,6 @@ import pe.auna.siteds.beans.GetCondicionMedicaRequest;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConAse270;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.ConAse270ServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.1 
- *
- */
 public class CondicionMedicaRequest extends AbstractTransformation {
 
     // ATRIBUTOS	

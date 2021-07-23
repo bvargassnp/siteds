@@ -25,10 +25,6 @@ import pe.gob.susalud.jr.transaccion.susalud.bean.InConCod271;
 import pe.gob.susalud.jr.transaccion.susalud.bean.InConCod271Detalle;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.ConCod271ServiceImpl;
 
-/**
- * @author Bryan Vargas
- * @version 2.0
- */
 public class ConsultaAsegCodResponse extends AbstractTransformation {
 
     // ATRIBUTOS	

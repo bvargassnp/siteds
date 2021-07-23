@@ -25,11 +25,6 @@ import pe.gob.susalud.jr.transaccion.susalud.bean.In271ConDtad;
 import pe.gob.susalud.jr.transaccion.susalud.service.imp.In271ConDtadServiceImpl;
 
 
-/**
- * @author Bryan Vargas
- * @version 2.1 
- *
- */
 public class ConsultaDatosAdiResponse  extends AbstractTransformation {
 
     // ATRIBUTOS	
